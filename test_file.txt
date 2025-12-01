@@ -2,3 +2,4 @@ Je veux juste travailler avec Github "partie added on github"
 en branch main, git pull
 git checkout test_branch
 sur test_branch "modification de ce fichier "je veux jouer devient : je veux travailler" 
+modification sur branch test_branch pour update sur git sans merge avec main 
