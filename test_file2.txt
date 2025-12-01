@@ -1,2 +1,3 @@
 Je cree un fichier pour test sur la branch local main
 recup du fichier sur git from main to test_branch
+Après un git pull origin test_branch je modifie le fichier en local sur la branche test_branch
